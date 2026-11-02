@@ -1,0 +1,17 @@
+{
+  "id": "demo-play-010",
+  "type": "play",
+  "official": true,
+  "description": "Las Vegas Raiders quarterback completes a 14-yard touchdown pass to Brock Bowers.",
+  "statistics": [
+    {
+      "stat_type": "receive",
+      "yards": 14,
+      "reception": 1,
+      "touchdown": 1,
+      "player": {
+        "id": "bowers"
+      }
+    }
+  ]
+}

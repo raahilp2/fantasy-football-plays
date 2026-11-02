@@ -1,0 +1,16 @@
+{
+  "id": "demo-play-004",
+  "type": "play",
+  "official": true,
+  "description": "Kenneth Walker III scores an 8-yard rushing touchdown (Kansas City Chiefs).",
+  "statistics": [
+    {
+      "stat_type": "rush",
+      "yards": 8,
+      "touchdown": 1,
+      "player": {
+        "id": "walker"
+      }
+    }
+  ]
+}

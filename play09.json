@@ -1,0 +1,17 @@
+{
+  "id": "demo-play-009",
+  "type": "play",
+  "official": true,
+  "description": "Dallas Cowboys quarterback completes a 21-yard touchdown pass to CeeDee Lamb.",
+  "statistics": [
+    {
+      "stat_type": "receive",
+      "yards": 21,
+      "reception": 1,
+      "touchdown": 1,
+      "player": {
+        "id": "lamb"
+      }
+    }
+  ]
+}

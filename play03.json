@@ -1,0 +1,16 @@
+{
+  "id": "demo-play-003",
+  "type": "play",
+  "official": true,
+  "description": "Jahmyr Gibbs rushes for 18 yards (Detroit Lions).",
+  "statistics": [
+    {
+      "stat_type": "rush",
+      "yards": 18,
+      "touchdown": 0,
+      "player": {
+        "id": "gibbs"
+      }
+    }
+  ]
+}

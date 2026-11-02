@@ -1,0 +1,17 @@
+{
+  "id": "demo-play-001",
+  "type": "play",
+  "official": true,
+  "description": "Sam Darnold completes a 25-yard pass to Jaxon Smith-Njigba (Seattle Seahawks).",
+  "statistics": [
+    {
+      "stat_type": "receive",
+      "yards": 25,
+      "reception": 1,
+      "touchdown": 0,
+      "player": {
+        "id": "jsn"
+      }
+    }
+  ]
+}

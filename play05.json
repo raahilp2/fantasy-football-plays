@@ -1,0 +1,16 @@
+{
+  "id": "demo-play-005",
+  "type": "play",
+  "official": true,
+  "description": "Josh Allen throws a 25-yard completion to Khalil Shakir (Buffalo Bills).",
+  "statistics": [
+    {
+      "stat_type": "pass",
+      "yards": 25,
+      "touchdown": 0,
+      "player": {
+        "id": "allen"
+      }
+    }
+  ]
+}

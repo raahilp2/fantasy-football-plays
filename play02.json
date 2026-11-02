@@ -1,0 +1,16 @@
+{
+  "id": "demo-play-002",
+  "type": "play",
+  "official": true,
+  "description": "Joe Burrow throws a 12-yard touchdown pass to Ja\u2019Marr Chase (Cincinnati Bengals).",
+  "statistics": [
+    {
+      "stat_type": "pass",
+      "yards": 12,
+      "touchdown": 1,
+      "player": {
+        "id": "burrow"
+      }
+    }
+  ]
+}
