@@ -1,0 +1,18 @@
+{
+  "id": "demo-play-008",
+  "type": "play",
+  "official": true,
+  "description": "Vikings defense records sack and interception",
+  "statistics": [
+    {
+      "stat_type": "defense",
+      "sacks": 1,
+      "interceptions": 1,
+      "fumble_recoveries": 0,
+      "touchdown": 0,
+      "player": {
+        "id": "vikings"
+      }
+    }
+  ]
+}

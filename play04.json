@@ -1,0 +1,16 @@
+{
+  "id": "demo-play-004",
+  "type": "play",
+  "official": true,
+  "description": "Walker scores rushing touchdown",
+  "statistics": [
+    {
+      "stat_type": "rush",
+      "yards": 8,
+      "touchdown": 1,
+      "player": {
+        "id": "walker"
+      }
+    }
+  ]
+}

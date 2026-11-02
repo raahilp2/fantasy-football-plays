@@ -1,0 +1,25 @@
+{
+  "id": "demo-play-006",
+  "type": "play",
+  "official": true,
+  "description": "Burrow to Bowers touchdown",
+  "statistics": [
+    {
+      "stat_type": "pass",
+      "yards": 21,
+      "touchdown": 1,
+      "player": {
+        "id": "burrow"
+      }
+    },
+    {
+      "stat_type": "receive",
+      "yards": 21,
+      "reception": 1,
+      "touchdown": 1,
+      "player": {
+        "id": "bowers"
+      }
+    }
+  ]
+}

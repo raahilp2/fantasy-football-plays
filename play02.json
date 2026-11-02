@@ -1,0 +1,25 @@
+{
+  "id": "demo-play-002",
+  "type": "play",
+  "official": true,
+  "description": "Burrow to Lamb touchdown",
+  "statistics": [
+    {
+      "stat_type": "pass",
+      "yards": 12,
+      "touchdown": 1,
+      "player": {
+        "id": "burrow"
+      }
+    },
+    {
+      "stat_type": "receive",
+      "yards": 12,
+      "reception": 1,
+      "touchdown": 1,
+      "player": {
+        "id": "lamb"
+      }
+    }
+  ]
+}
